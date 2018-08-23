@@ -22,7 +22,7 @@
   查看官方的使用说明文档请点[这里](https://git-scm.com/book/zh/v2)
   
 ### b.IDE
-如果你对git cmd不是很熟悉，或者不喜欢cmd的使用方式，那么我们建议你使用IDE来做代码管理。常用的IDE有SourceTree、GitDeskTop等。这里建议大家用SourceTree,用户体验好一点。使用页面如下图:  
+如果你对git cmd不是很熟悉，或者不喜欢cmd的使用方式，那么我们建议你使用IDE来做代码管理。常用的IDE有SourceTree、GitHub for Desktop等。这里建议大家用SourceTree,用户体验好一点。页面如下图:  
 ![avatar](https://raw.githubusercontent.com/zhouzhongbo/ImgStore/master/sourcetree.png)
 
 
